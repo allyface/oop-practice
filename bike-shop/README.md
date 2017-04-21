@@ -28,7 +28,7 @@ $ npm install
 Run your tests with variants of the `$ npm run test` command:
 
 ```shell
-$ npm run test          # run all tests
+$ npm test              # run all tests
 $ npm run test:stage1   # run stage 1 tests only
 $ npm run test:stage2   # run stage 2 tests only
 $ npm run test:stage3   # run stage 3 tests only
